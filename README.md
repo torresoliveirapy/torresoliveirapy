@@ -23,6 +23,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/torresoliveirapy/torresoliveirapy/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/torresoliveirapy/torresoliveirapy/output/snake.svg" alt="Snake animation](https://raw.githubusercontent.com/torresoliveirapy/torresoliveirapy/main/snake.svg)https://raw.githubusercontent.com/torresoliveirapy/torresoliveirapy/main/snake.svg" />
 
 ###
